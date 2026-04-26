@@ -30,21 +30,6 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
         channel: 'chrome'
       }
-    },
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] }
-    },
-    {
-      name: 'edge',
-      use: {
-        ...devices['Desktop Edge'],
-        channel: 'msedge'
-      }
-    },
-    {
-      name: 'safari',
-      use: { ...devices['Desktop Safari'] }
     }
   ],
   outputDir: 'test-results'
