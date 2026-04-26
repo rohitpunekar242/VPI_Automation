@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VPI Automation
 Veradigm Payer Insights (VPI) is a clinical decision support solution platform
 
@@ -59,7 +58,3 @@ test('loads the Full VPI Panel page', async ({ fullVpiPanelPage }) => {
 ```
 
 See `docs/test-writing-guidelines.md` for naming, test step, and manual test case mapping conventions.
-=======
-# VPI_Automation
-Veradigm Payer Insights (VPI) is a clinical decision support solution platform
->>>>>>> 30b604046336dfefe74b3a32ae4802a6c6f662aa
