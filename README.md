@@ -1,6 +1,10 @@
 # VPI Automation
 Veradigm Payer Insights (VPI) is a clinical decision support solution platform
 
+✔️ Automated UI testing using Playwright  
+✔️ Integrated with GitHub Actions (CI/CD)  
+✔️ Secure config using GitHub Secrets  
+
 
 Playwright + TypeScript automation project.
 
